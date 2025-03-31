@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- Banner Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=FF4500&center=true&vCenter=true&width=600&lines=🔥+Welcome+to+Pema+Yoezer's+Profile!+🔥;🏀+Basketball+Lover+|+RF+Engineer+🚀;🎬+3D+Animator+|+Tech+Enthusiast;❤️+Sonam+Deki+Forever!+❤️" />
 </p>
@@ -15,24 +15,10 @@
 
 🔥 **About Me:**
 - 🎓 **Electronic Engineering Student**
-- 🏀 **Basketball Enthusiast**
-- 🎬 **3D Animator & Effects Creator**
-- 🎸 **Metalhead 🤘 | Rock Lover**
-- 🚀 **Building cool things in RF & Wireless Tech**
-
----
-
-## 🎥 **My 2D SVG Animations:**
-
-### 🐉 **Dragon Playing Basketball**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pemayoezer/pemayoezer/main/dragon_ball.svg" width="300px"/>
-</p>
-
-### ❤️ **Me & Sonam Holding Hands with Love Signs**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pemayoezer/pemayoezer/main/love_animation.svg" width="300px"/>
-</p>
+- 🏀 **Basketball Enthusiast** ![Basketball GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+- 🎬 **3D Animator & Effects Creator** ![Animation GIF](https://media.giphy.com/media/3oKIPCSX4UHmuRfRZa/giphy.gif)
+- 🎸 **Metalhead 🤘 | Rock Lover** ![Rock GIF](https://media.giphy.com/media/Q8zY5TUXuBtxC/giphy.gif)
+- 🚀 **Building cool things in RF & Wireless Tech** ![Tech GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 ---
 
