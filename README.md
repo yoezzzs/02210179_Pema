@@ -1,9 +1,9 @@
-<!-- Banner Animation -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/pemayoezer/pemayoezer/blob/main/banner.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=FF4500&center=true&vCenter=true&width=600&lines=🔥+Welcome+to+Pema+Yoezer's+Profile!+🔥;🏀+Basketball+Lover+|+RF+Engineer+🚀;🎬+3D+Animator+|+Tech+Enthusiast;❤️+Sonam+Deki+Forever!+❤️" />
 </p>
 
-<!-- Profile Pic and Name -->
+<!-- Profile Pic -->
 <p align="center">
   <img src="https://github.com/pemayoezer/pemayoezer/blob/main/avatar.gif" width="200px" height="200px" style="border-radius: 50%;" />
 </p>
@@ -22,22 +22,21 @@
 
 ---
 
-🎥 **My 3D Animations:**
-#### 🐉 **Dragon Playing Basketball**
-<p align="center">
-  <img src="https://github.com/pemayoezer/pemayoezer/blob/main/dragon_basketball.gif" width="500px" />
-</p>
-🛠 *A fire-breathing dragon doing crossovers and dunking with a flaming basketball!* 🔥🏀  
+## 🎥 **My 2D SVG Animations:**
 
-#### ❤️ **Me & Sonam Deki Holding Hands**
+### 🐉 **Dragon Playing Basketball**
 <p align="center">
-  <img src="https://github.com/pemayoezer/pemayoezer/blob/main/love_animation.gif" width="500px" />
+  <img src="https://raw.githubusercontent.com/pemayoezer/pemayoezer/main/dragon_ball.svg" width="300px"/>
 </p>
-💖 *A dreamy 3D animation where we hold hands, and love signs pop up around us!* 💖  
+
+### ❤️ **Me & Sonam Holding Hands with Love Signs**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pemayoezer/pemayoezer/main/love_animation.svg" width="300px"/>
+</p>
 
 ---
 
-🚀 **Tech Stack & Skills:**
+## 🚀 **Tech Stack & Skills:**
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -73,7 +72,6 @@
 ---
 
 🔥 _Thanks for stopping by! Check out my projects._ 🚀  
-
 
 
 
