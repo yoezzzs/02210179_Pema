@@ -1,6 +1,6 @@
-<!-- Banner with cool animation -->
+<!-- Banner Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+Pema+Yoezer's+Profile!+🚀;👨‍💻+RF+Engineer+|+Tech+Enthusiast+|+Basketball+Fan+🏀;🎸+Metal+Head+🤘+|+Creative+Animator+🎬;🔥+Let's+Build+Something+Awesome!+🔥" />
+  <img src="https://github.com/pemayoezer/pemayoezer/blob/main/banner.gif" width="100%" />
 </p>
 
 <!-- Profile Pic and Name -->
@@ -8,46 +8,50 @@
   <img src="https://github.com/pemayoezer/pemayoezer/blob/main/avatar.gif" width="200px" height="200px" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hey, I'm <span style="color:#ff5733;">Pema Yoezer</span> 👋</h1>
-<h3 align="center">📍 Bhutan | 🏫 CST | ❤️ Sonam Deki</h3>
+<h1 align="center">Hey, I'm Pema Yoezer 👋</h1>
+<h3 align="center">📍 Bhutan | 🎓 CST | ❤️ Sonam Deki</h3>
 
 ---
 
 🔥 **About Me:**
-- ⚡ **RF Engineer | Wireless Tech Geek**
-- 🏀 **Basketball lover (when I'm not spraining my ankle 😅)**
-- 🎬 **Making cool animations and effects**
-- 🎸 **Metalhead 🤘 | Rock Enthusiast**
-- 🚀 **Always exploring new technologies**
+- 🎓 **Electronic Engineering Student**
+- 🏀 **Basketball Enthusiast**
+- 🎬 **3D Animator & Effects Creator**
+- 🎸 **Metalhead 🤘 | Rock Lover**
+- 🚀 **Building cool things in RF & Wireless Tech**
 
 ---
 
-🎨 **Cool Animations and Effects I Like:**  
+🎥 **My 3D Animations:**
+#### 🐉 **Dragon Playing Basketball**
 <p align="center">
-  <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="200px" />
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="200px" />
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="200px" />
+  <img src="https://github.com/pemayoezer/pemayoezer/blob/main/dragon_basketball.gif" width="500px" />
 </p>
+🛠 *A fire-breathing dragon doing crossovers and dunking with a flaming basketball!* 🔥🏀  
+
+#### ❤️ **Me & Sonam Deki Holding Hands**
+<p align="center">
+  <img src="https://github.com/pemayoezer/pemayoezer/blob/main/love_animation.gif" width="500px" />
+</p>
+💖 *A dreamy 3D animation where we hold hands, and love signs pop up around us!* 💖  
 
 ---
 
-🚀 **Tech Stack:**
+🚀 **Tech Stack & Skills:**
 <p align="center">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
 </p>
 
 ---
 
-📊 **GitHub Stats with Cool Effects:**
+📊 **GitHub Stats:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pemayoezer&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pemayoezer&theme=radical" width="400" />
-  <img src="https://github-profile-trophy.vercel.app/?username=pemayoezer&theme=onedark&column=4" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pemayoezer&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pemayoezer&theme=tokyonight" width="400" />
 </p>
 
 ---
@@ -68,12 +72,10 @@
 
 ---
 
-🔥 **Fun Fact:**  
-"I once had to fix an entire network outage caused by monkeys damaging fiber cables!" 🐵🚧  
+🔥 _Thanks for stopping by! Check out my projects._ 🚀  
 
----
 
-🚀 _Thanks for stopping by! Feel free to check out my projects._ 🚀  
+
 
 
 
