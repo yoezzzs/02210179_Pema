@@ -1,15 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
+# Pema Yoezer(02210179):
 
 # Part 2: Queue implementation using Linked List 
 # Task 3: Implement the Node and LinkedStack Class Structure 
