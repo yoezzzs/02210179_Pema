@@ -1,44 +1,58 @@
-<!-- Banner Image -->
+<!-- Banner with cool animation -->
 <p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/blob/main/banner.gif" alt="Banner" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+Pema+Yoezer's+Profile!+🚀;👨‍💻+RF+Engineer+|+Tech+Enthusiast+|+Basketball+Fan+🏀;🎸+Metal+Head+🤘+|+Creative+Animator+🎬;🔥+Let's+Build+Something+Awesome!+🔥" />
 </p>
 
-<!-- Introduction -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/your-github-username">Your Name</a> 👋</h1>
-<h3 align="center">⚡ Tech Enthusiast | 👨‍💻 Engineer | 🚀 Open Source Contributor</h3>
+<!-- Profile Pic and Name -->
+<p align="center">
+  <img src="https://github.com/pemayoezer/pemayoezer/blob/main/avatar.gif" width="200px" height="200px" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">Hey, I'm <span style="color:#ff5733;">Pema Yoezer</span> 👋</h1>
+<h3 align="center">📍 Bhutan | 🏫 CST | ❤️ Sonam Deki</h3>
 
 ---
 
-🌟 **About Me:**
-- 🔭 I’m currently working on **exciting projects related to antennas and wireless tech**  
-- 📖 I’m learning **DSP, computer architecture, and RF engineering**  
-- 💡 I love **problem-solving, building networks, and optimizing performance**  
-- 🎸 Passionate about **rock and heavy metal music** 🤘  
-- 🏀 Basketball fan (though I recently sprained my ankle 😅)  
+🔥 **About Me:**
+- ⚡ **RF Engineer | Wireless Tech Geek**
+- 🏀 **Basketball lover (when I'm not spraining my ankle 😅)**
+- 🎬 **Making cool animations and effects**
+- 🎸 **Metalhead 🤘 | Rock Enthusiast**
+- 🚀 **Always exploring new technologies**
 
 ---
 
-🚀 **Tech Stack & Skills:**
+🎨 **Cool Animations and Effects I Like:**  
+<p align="center">
+  <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="200px" />
+</p>
+
+---
+
+🚀 **Tech Stack:**
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/8085%20Microprocessor-00979D?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/CST%20Studio-FF6F00?style=for-the-badge&logo=cststudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
 </p>
 
 ---
 
-📊 **GitHub Stats:**
+📊 **GitHub Stats with Cool Effects:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pemayoezer&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pemayoezer&theme=radical" width="400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pemayoezer&theme=onedark&column=4" width="500" />
 </p>
 
 ---
 
-💬 **Connect with Me:**
+💬 **Let's Connect!**
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -47,15 +61,20 @@
 
 ---
 
-🎶 **Now Playing:**  
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem)
+🎵 **Now Playing:**  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem" />
+</p>
 
 ---
 
-😎 **Fun Fact:**  
-*I once had to troubleshoot an entire network outage caused by monkeys damaging fiber cables!* 🐵🚧  
+🔥 **Fun Fact:**  
+"I once had to fix an entire network outage caused by monkeys damaging fiber cables!" 🐵🚧  
 
 ---
 
-🔥 _Thanks for visiting! Feel free to check out my repositories._  
+🚀 _Thanks for stopping by! Feel free to check out my projects._ 🚀  
+
+
+
 
