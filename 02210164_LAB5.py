@@ -9,7 +9,7 @@
 
 def sequential_search(arr, target):
     comparisons = 0
-    
+          
     for index, value in enumerate(arr):
         comparisons += 1
         if value == target:

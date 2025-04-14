@@ -77,6 +77,6 @@ print("Stack size:", stack.size())
 # or require resizing if it is too small. In contrast, the linked list-based stack dynamically allocates memory, ensuring efficient 
 # space usage without resizing issues. It also has O(1) time complexity for push and pop operations but incurs additional memory overhead 
 # due to storing pointers. While the array-based stack benefits from faster access times due to contiguous memory storage, the linked list-based 
-# stack is more flexible and preferable when the number of elements is unpredictable.s
+# stack is more flexible and preferable when the number of elements is unpredictable.ss
 # I prefer the linked list-based stack for cases where we don't know the number of elements beforehand since it allows dynamic memory allocation 
 # without resizing overhead. However, for small, fixed-size stacks where speed is critical, an array-based stack is better due to faster access times.
